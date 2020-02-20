@@ -1,0 +1,18 @@
+
+{
+  "dbconf_dev":{
+    "driver":"mysql",
+    "dbhost":"localhost",
+    "dbuser":"root",
+    "dbpass":"linuxlinux",
+    "dbname":"db_inmuebles"
+  },
+  "dbconf_pro":{
+    "driver":"mysql",
+    "dbhost":"127.0.0.1",
+    "dbuser":"db0",
+    "dbpass":"linuxlinux",
+    "dbname":"db_inmuebles"
+  }
+
+}
